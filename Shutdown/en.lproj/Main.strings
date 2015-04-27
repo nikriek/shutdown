@@ -1,0 +1,69 @@
+
+/* Class = "IBUILabel"; text = "Execute on startup"; ObjectID = "080-vI-Ebw"; */
+"080-vI-Ebw.text" = "Execute on startup";
+
+/* Class = "IBUILabel"; text = "Touch button to shutdown"; ObjectID = "70B-Pj-fkl"; */
+"70B-Pj-fkl.text" = "Touch button to shutdown";
+
+/* Class = "IBUILabel"; text = "Rate this app"; ObjectID = "7YO-dt-h8B"; */
+"7YO-dt-h8B.text" = "Rate this app";
+
+/* Class = "IBUILabel"; text = "Acknowledgements"; ObjectID = "7cz-Dy-pxR"; */
+"7cz-Dy-pxR.text" = "Acknowledgements";
+
+/* Class = "IBUILabel"; text = "Website"; ObjectID = "GY8-bA-8Zx"; */
+"GY8-bA-8Zx.text" = "Website";
+
+/* Class = "IBUITableViewSection"; footerTitle = "View 'Get started' on first launch. All data will be saved securely in the device's keychain!"; ObjectID = "Kmq-ku-Sph"; */
+"Kmq-ku-Sph.footerTitle" = "View 'Get started' on first launch. All data will be saved securely in the device's keychain!";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Connection Settings"; ObjectID = "Kmq-ku-Sph"; */
+"Kmq-ku-Sph.headerTitle" = "Connection Settings";
+
+/* Class = "IBUINavigationItem"; title = "Acknowledgements"; ObjectID = "Rtl-QK-NJ5"; */
+"Rtl-QK-NJ5.title" = "Acknowledgements";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Copyright © 2014 by Niklas Riekenbrauck – all rights reserved"; ObjectID = "TDx-Be-UgU"; */
+"TDx-Be-UgU.footerTitle" = "Copyright © 2014 by Niklas Riekenbrauck – all rights reserved";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Information"; ObjectID = "TDx-Be-UgU"; */
+"TDx-Be-UgU.headerTitle" = "Information";
+
+/* Class = "IBUILabel"; text = "Twitter"; ObjectID = "TMr-ok-UK2"; */
+"TMr-ok-UK2.text" = "Twitter";
+
+/* Class = "IBUINavigationItem"; title = "Guide"; ObjectID = "Y2q-00-HkY"; */
+"Y2q-00-HkY.title" = "Guide";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "dGA-4R-wQH"; */
+"dGA-4R-wQH.placeholder" = "Username";
+
+/* Class = "IBUITableViewSection"; footerTitle = "The shutdown command will be executed automatically on the app's startup."; ObjectID = "dqR-8V-dfA"; */
+"dqR-8V-dfA.footerTitle" = "The shutdown command will be executed automatically on the app's startup.";
+
+/* Class = "IBUILabel"; text = "This app was developed by Niklas Riekenbrauck. Feel free to write me – especially when you need help!"; ObjectID = "gMJ-h8-pR7"; */
+"gMJ-h8-pR7.text" = "This app was developed by Niklas Riekenbrauck. Feel free to write me – especially when you need help!";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "h1h-Og-nyZ"; */
+"h1h-Og-nyZ.text" = "Email";
+
+/* Class = "IBUITextField"; placeholder = "Host IP or local domain"; ObjectID = "mcb-66-hjN"; */
+"mcb-66-hjN.placeholder" = "Host IP or local domain";
+
+/* Class = "IBUILabel"; text = "Support"; ObjectID = "oFn-EM-0NR"; */
+"oFn-EM-0NR.text" = "Support";
+
+/* Class = "IBUISegmentedControl"; poS-f2-GMQ.segmentTitles[0] = "Mac OS X"; ObjectID = "poS-f2-GMQ"; */
+"poS-f2-GMQ.segmentTitles[0]" = "Mac OS X";
+
+/* Class = "IBUISegmentedControl"; poS-f2-GMQ.segmentTitles[1] = "Linux"; ObjectID = "poS-f2-GMQ"; */
+"poS-f2-GMQ.segmentTitles[1]" = "Linux";
+
+/* Class = "IBUISegmentedControl"; poS-f2-GMQ.segmentTitles[2] = "Synology"; ObjectID = "poS-f2-GMQ"; */
+"poS-f2-GMQ.segmentTitles[2]" = "Synology";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "rfl-4I-8on"; */
+"rfl-4I-8on.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Get started"; ObjectID = "soq-fF-RTh"; */
+"soq-fF-RTh.text" = "Get started";

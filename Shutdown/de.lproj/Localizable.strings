@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Shutdown
+
+  Created by Niklas Riekenbrauck on 03.03.14.
+  Copyright (c) 2014 Niklas Riekenbrauck. All rights reserved.
+*/
+
+"NO_CREDENTIALS" = "Keine Verbindungsdaten";
+"SUCCESS" = "Kommando ausgeführt";
+"AUTH_FAILED" = "Autorisierung fehlgeschlagen";
+"CONNECTION_FAILED" = "Verbindungsfehler";
+"ERROR" = "Fehler";
+"MISSING_CONFIGURATION" = "Bitte fülle alle Konfiguration-Einstellungen aus.";

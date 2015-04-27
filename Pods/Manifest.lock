@@ -1,0 +1,16 @@
+PODS:
+  - fmemopen (0.0.1)
+  - NSAttributedStringMarkdownParser (0.0.1):
+    - fmemopen
+  - PDKeychainBindingsController (0.0.1)
+
+DEPENDENCIES:
+  - NSAttributedStringMarkdownParser (~> 0.0.1)
+  - PDKeychainBindingsController (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  fmemopen: 9985c0b5696288ac034514edc2eeaea6e5ae77ca
+  NSAttributedStringMarkdownParser: fb93a47c4be94a80f4bd5e81dd8067cce5f7f5eb
+  PDKeychainBindingsController: 463c207f8726e4aaec1ec20fd1876082ee86cb0a
+
+COCOAPODS: 0.29.0

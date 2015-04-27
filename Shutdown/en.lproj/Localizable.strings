@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Shutdown
+
+  Created by Niklas Riekenbrauck on 03.03.14.
+  Copyright (c) 2014 Niklas Riekenbrauck. All rights reserved.
+*/
+
+"NO_CREDENTIALS" = "No connection credentials";
+"SUCCESS" = "Shutdown executed";
+"AUTH_FAILED" = "Authorization failed";
+"CONNECTION_FAILED" = "Connection failed";
+"ERROR" = "Error";
+"MISSING_CONFIGURATION" = "Please fill out all configuration settings.";
